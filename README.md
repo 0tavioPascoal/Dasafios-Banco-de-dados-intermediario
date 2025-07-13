@@ -18,4 +18,4 @@ O curso aborda os fundamentos do SQL Server, incluindo:
 1. Clone este repositório em sua máquina local:
 
    ```bash
-   git clone https://github.com/0tavioPascoal/Desafios-Csharp.git](https://github.com/0tavioPascoal/Dasafios-Banco-de-dados-intermediario.git
+   git clone https://github.com/0tavioPascoal/Dasafios-Banco-de-dados-intermediario.git
